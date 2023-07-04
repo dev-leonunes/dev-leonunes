@@ -16,5 +16,5 @@
 
 <p><img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=futurodevleo&show_icons=true&theme=radical&locale=en&layout=compact" alt="futurodevleo" /></p>
 
-<p>&nbsp;<img align="center" width="45%" src="https://github-readme-stats.vercel.app/api?username=futurodevleo&show_icons=true&theme=merko&locale=en" alt="futurodevleo" /></p>
+<p>&nbsp;<img align="center" width="45%" src="https://github-readme-stats.vercel.app/api?username=futurodevleo&show_icons=true&theme=radical&locale=en" alt="futurodevleo" /></p>
 
