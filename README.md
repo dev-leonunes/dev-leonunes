@@ -8,7 +8,7 @@
 <h3 align="left">Redes Sociais:</h3>
 <p align="left">
 <a target="_blank" href="https://linkedin.com/in/leonardo-nunes-72173322b"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="leonardo-nunes-72173322b" height="30" width="40" /></a>
-<a target="_blank" href="https://instagram.com/@leonnunes07"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@leonnunes07" height="30" width="40" /></a>
+<a target="_blank" href="https://instagram.com/leonnunes07"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@leonnunes07" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Linguagens e ferramentas:</h3>
