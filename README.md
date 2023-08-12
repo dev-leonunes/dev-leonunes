@@ -24,7 +24,5 @@
 
 ## 🔥 Github Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=futurodevleo&show_icons=true&theme=dracula&card_width=400)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=futurodevleo&theme=dracula&card_width=435)](https://git.io/streak-stats)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=futurodevleo&show_icons=true&theme=dracula&card_width=400) [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=futurodevleo&theme=dracula&card_width=435)](https://git.io/streak-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=futurodevleo&show_icons=true&theme=dracula&layout=compact&card_width=435)
