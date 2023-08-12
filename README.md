@@ -24,8 +24,8 @@
 
 ## 🔥 Github Stats
 
-<p><img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=futurodevleo&show_icons=true&theme=radical&locale=en&layout=compact" alt="futurodevleo" /></p>
+<p><img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=futurodevleo&show_icons=true&theme=dracula&locale=en&layout=compact" alt="futurodevleo" /></p>
 
-<p>&nbsp;<img align="center" width="45%" src="https://github-readme-stats.vercel.app/api?username=futurodevleo&show_icons=true&theme=radical&locale=en" alt="futurodevleo" /></p>
+<p>&nbsp;<img align="center" width="45%" src="https://github-readme-stats.vercel.app/api?username=futurodevleo&show_icons=true&theme=dracula&locale=en" alt="futurodevleo" /></p>
 
-<a href="https://github.com/futurodevleo"><img width="40%" src="http://github-readme-streak-stats.herokuapp.com/?user=futurodevleo&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068"></a>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=futurodevleo&theme=dracula&card_width=405)](https://git.io/streak-stats)
