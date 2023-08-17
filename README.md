@@ -27,7 +27,7 @@
 ## 🔥 Github Stats
 
 <div align="left">
-</p><img height="200px" src="https://github-readme-stats.vercel.app/api?username=futurodevleo&show_icons=true&theme=dracula&card_width=350" alt="Léo Nunes github stats" /> 
-<img height="200px" src="http://github-readme-streak-stats.herokuapp.com?user=futurodevleo&theme=dracula&card_width=385" />
+</p><img height="200px" src="https://github-readme-stats.vercel.app/api?username=futurodevleo&show_icons=true&theme=dracula&card_width=320" alt="Léo Nunes github stats" /> 
+<img height="200px" src="http://github-readme-streak-stats.herokuapp.com?user=futurodevleo&theme=dracula&card_width=355" />
 <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=futurodevleo&show_icons=true&theme=dracula&layout=compact&card_width=350" />
 </div>
