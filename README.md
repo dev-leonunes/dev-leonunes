@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=White+Rabbit&pause=1000&color=34C924&center=true&width=435&lines=Wake+up%2C+Neo...;The+Matrix+has+you...;Follow+the+white+rabbit.)](https://git.io/typing-svg)
+
 <h1 align="center">Olá Mundo 👋, eu sou o Leonardo Nunes</h1>
 <h3 align="center">Um estudante de programação</h3>
 
@@ -5,7 +7,7 @@
 -  📍 Sou da Bahia, atualmente moro em Salvador-BA
 -  🌱 Estou atualmente aprendendo **JavaScript, nodejs**
 -  🧠 Estudante de Desenvolvimento de Software Back-end na Cubos Academy
--  👨‍🎓 Cursando Ciência e Tecnologia pela Universisade Federal do Sul da Bahia
+-  👨‍🎓 Cursando Ciência e Tecnologia pela Universidade Federal do Sul da Bahia
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=futurodevleo&label=Profile%20views&color=0e75b6&style=flat" alt="futurodevleo" /> </p>
 
@@ -24,5 +26,8 @@
 
 ## 🔥 Github Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=futurodevleo&show_icons=true&theme=dracula&card_width=400) [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=futurodevleo&theme=dracula&card_width=435)](https://git.io/streak-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=futurodevleo&show_icons=true&theme=dracula&layout=compact&card_width=435)
+<div align="left">
+</p><img height="200px" src="https://github-readme-stats.vercel.app/api?username=futurodevleo&show_icons=true&theme=dracula&card_width=400" alt="Léo Nunes github stats" /> 
+<img height="200px" src="http://github-readme-streak-stats.herokuapp.com?user=futurodevleo&theme=dracula&card_width=400" />
+<img width="40%" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=futurodevleo&show_icons=true&theme=dracula&layout=compact" />
+</div>
