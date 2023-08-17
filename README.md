@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=White+Rabbit&pause=1000&color=34C924&center=true&width=435&lines=Wake+up%2C+Neo...;The+Matrix+has+you...;Follow+the+white+rabbit.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=White+Rabbit&pause=1000&color=34C924&width=435&lines=Wake+up%2C+Neo...;The+Matrix+has+you...;Follow+the+white+rabbit.)](https://git.io/typing-svg)
 
 <h1 align="center">Olá Mundo 👋, eu sou o Leonardo Nunes</h1>
 <h3 align="center">Um estudante de programação</h3>
