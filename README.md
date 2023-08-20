@@ -5,7 +5,7 @@
 
 -  🔭 Estou atualmente em uma jornada para alcançar **grandes** objetivos
 -  📍 Sou da Bahia, atualmente moro em Salvador-BA
--  🌱 Estou atualmente aprendendo **JavaScript, nodejs**
+-  🌱 Estou atualmente aprendendo **JavaScript, nodejs, expressjs**
 -  🧠 Estudante de Desenvolvimento de Software Back-end na Cubos Academy
 -  👨‍🎓 Cursando Ciência e Tecnologia pela Universidade Federal do Sul da Bahia
 
@@ -20,7 +20,7 @@
 <h3 align="left">Linguagens e ferramentas:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,nodejs,git,css,html,vscode" />
+    <img src="https://skillicons.dev/icons?i=js,nodejs,git,css,html,express,vscode" />
   </a>
 </p>
 
