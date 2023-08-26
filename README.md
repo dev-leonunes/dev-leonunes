@@ -8,6 +8,8 @@
 -  🌱 Estou atualmente aprendendo **JavaScript, nodejs, expressjs**
 -  🧠 Estudante de Desenvolvimento de Software Back-end na Cubos Academy
 -  👨‍🎓 Cursando Ciência e Tecnologia pela Universidade Federal do Sul da Bahia
+-  🔎 Também tenho curiosidade sobre as ciências, a economia...
+-  ⏳ No meu tempo livro gosto de [assistir filmes](https://letterboxd.com/leonunes/), [ler livros](https://www.skoob.com.br/usuario/1639942), [jogar no PS4](https://psnprofiles.com/Juha_bach7), ver youtube ou podcasts sobre diversos assuntos
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=futurodevleo&label=Profile%20views&color=0e75b6&style=flat" alt="futurodevleo" /> </p>
 
@@ -27,7 +29,8 @@
 ## 🔥 Github Stats
 
 <div align="left">
-</p><img height="200px" src="https://github-readme-stats.vercel.app/api?username=futurodevleo&show_icons=true&theme=dracula&card_width=320" alt="Léo Nunes github stats" /> 
-<img height="200px" src="http://github-readme-streak-stats.herokuapp.com?user=futurodevleo&theme=dracula&card_width=355" />
-<img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=futurodevleo&show_icons=true&theme=dracula&layout=compact&card_width=350" />
+<a href="https://https://github.com/futuroDevLeo">
+<img height="200px" src="https://github-readme-stats.vercel.app/api?username=futurodevleo&show_icons=true&include_all_commits=true&count_private=true&theme=dracula" /> 
+<img height="200px" src="http://github-readme-streak-stats.herokuapp.com?user=futurodevleo&theme=dracula" />
+<img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=futurodevleo&show_icons=true&theme=dracula&layout=compact" />
 </div>
