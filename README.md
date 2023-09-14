@@ -5,7 +5,7 @@
 
 -  🔭 Estou atualmente em uma jornada para alcançar **grandes** objetivos
 -  📍 Sou da Bahia, atualmente moro em Salvador-BA
--  🌱 Estou atualmente aprendendo **JavaScript, nodejs, expressjs**
+-  🌱 Estou atualmente aprendendo **javaScript, nodejs, expressjs, postgresql**
 -  🧠 Estudante de Desenvolvimento de Software Back-end na Cubos Academy
 -  👨‍🎓 Cursando Ciência e Tecnologia pela Universidade Federal do Sul da Bahia
 -  🔎 Também tenho curiosidade sobre as ciências, a economia...
@@ -22,7 +22,7 @@
 <h3 align="left">Linguagens e ferramentas:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,nodejs,git,css,html,express,vscode" />
+    <img src="https://skillicons.dev/icons?i=js,nodejs,git,css,html,express,vscode,postgresql" />
   </a>
 </p>
 
@@ -30,7 +30,7 @@
 
 <div align="left">
 <a href="https://https://github.com/futuroDevLeo">
-<img height="200px" src="https://github-readme-stats.vercel.app/api?username=futurodevleo&show_icons=true&include_all_commits=true&count_private=true&theme=dracula" /> 
-<img height="200px" src="http://github-readme-streak-stats.herokuapp.com?user=futurodevleo&theme=dracula" />
-<img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=futurodevleo&show_icons=true&theme=dracula&layout=compact" />
+<img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=futurodevleo&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&rank_icon=github"> 
+<img height="200px" width="400" src="http://github-readme-streak-stats.herokuapp.com?user=futurodevleo&theme=dracula">
+<img height="180px" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=futurodevleo&show_icons=true&theme=dracula&layout=compact">
 </div>
