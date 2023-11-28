@@ -5,10 +5,10 @@
 
 -  🔭 Estou atualmente em uma jornada para alcançar **grandes** objetivos
 -  📍 Sou da Bahia, atualmente moro em Salvador-BA
--  🌱 Estou atualmente aprendendo **Typescript, Docker**
+-  🌱 Estou atualmente estudando **Typescript, Docker**
 -  🧠 Fui estudante de Desenvolvimento de Software Back-end na Cubos Academy
 -  👨‍🎓 Cursando Ciência e Tecnologia pela Universidade Federal do Sul da Bahia
--  🔎 Também tenho curiosidade sobre as ciências, a economia...
+-  🔎 Também tenho curiosidade sobre as ciências, a economia e muito mais...
 -  ⏳ No meu tempo livre gosto de [assistir filmes](https://letterboxd.com/leonunes/), [ler livros](https://www.skoob.com.br/usuario/1639942), [jogar no PS4](https://psnprofiles.com/Juha_bach7), ver youtube ou podcasts sobre diversos assuntos
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=futurodevleo&label=Profile%20views&color=0e75b6&style=flat" alt="futurodevleo" /> </p>
