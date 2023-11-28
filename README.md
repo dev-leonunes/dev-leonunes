@@ -1,12 +1,12 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=White+Rabbit&pause=1000&color=34C924&width=435&lines=Wake+up%2C+Neo...;The+Matrix+has+you...;Follow+the+white+rabbit.)](https://git.io/typing-svg)
 
 <h1 align="center">Olá Mundo 👋, eu sou o Leonardo Nunes</h1>
-<h3 align="center">Um estudante de programação</h3>
+<h3 align="center">Um desenvolvedor backend</h3>
 
 -  🔭 Estou atualmente em uma jornada para alcançar **grandes** objetivos
 -  📍 Sou da Bahia, atualmente moro em Salvador-BA
--  🌱 Estou atualmente aprendendo **javaScript, nodejs, expressjs, postgresql**
--  🧠 Estudante de Desenvolvimento de Software Back-end na Cubos Academy
+-  🌱 Estou atualmente aprendendo **Typescript, Docker**
+-  🧠 Fui estudante de Desenvolvimento de Software Back-end na Cubos Academy
 -  👨‍🎓 Cursando Ciência e Tecnologia pela Universidade Federal do Sul da Bahia
 -  🔎 Também tenho curiosidade sobre as ciências, a economia...
 -  ⏳ No meu tempo livre gosto de [assistir filmes](https://letterboxd.com/leonunes/), [ler livros](https://www.skoob.com.br/usuario/1639942), [jogar no PS4](https://psnprofiles.com/Juha_bach7), ver youtube ou podcasts sobre diversos assuntos
