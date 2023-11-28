@@ -20,9 +20,22 @@
 </p>
 
 <h3 align="left">Linguagens e ferramentas:</h3>
+<h4 align="left">Que utilizo:</h4>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,nodejs,git,css,html,express,vscode,postgresql" />
+    <img src="https://skillicons.dev/icons?i=js,nodejs,express,postgresql,git,vscode,postman" />
+  </a>
+</p>
+<h4 align="left">Que tenho conhecimento:</h4>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=css,html" />
+  </a>
+</p>
+<h4 align="left">Que estou estudando:</h4>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=typescript,docker" />
   </a>
 </p>
 
