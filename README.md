@@ -35,7 +35,7 @@
 <h4 align="left">Que estou estudando:</h4>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=typescript,docker" />
+    <img src="https://skillicons.dev/icons?i=typescript,docker,aws" />
   </a>
 </p>
 
