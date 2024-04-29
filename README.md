@@ -5,7 +5,7 @@
 
 -  🔭 Estou atualmente em uma jornada para alcançar **grandes** objetivos
 -  📍 Sou da Bahia, atualmente moro em Salvador-BA
--  🌱 Estou atualmente estudando **Typescript, Python, Mysql, TypeORM**
+-  🌱 Estou atualmente estudando **Typescript, Python, Mysql, TypeORM, Java**
 -  🧠 Fui estudante de Desenvolvimento de Software Back-end na Cubos Academy
 -  👨‍🎓 Cursando Ciência e Tecnologia pela UFSB & Análise e Desenvolvimento de Sistemas pela Uninter
 -  🔎 Também tenho curiosidade sobre as ciências, a economia e muito mais...
@@ -35,7 +35,7 @@
 <h4 align="left">Que estou estudando:</h4>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=typescript,py,docker,aws,mysql" />
+    <img src="https://skillicons.dev/icons?i=typescript,py,java,docker,aws,mysql" />
   </a>
 </p>
 
