@@ -23,7 +23,7 @@
 <h4 align="left">Que utilizo:</h4>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,nodejs,express,postgresql" /><br>
+    <img src="https://skillicons.dev/icons?i=js,nodejs,express,typescript,postgresql" /><br>
     <img src="https://skillicons.dev/icons?i=git,vscode,postman" />
   </a>
 </p>
@@ -36,7 +36,7 @@
 <h4 align="left">Que estou estudando:</h4>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=typescript,py,java,docker,aws,mongodb" />
+    <img src="https://skillicons.dev/icons?i=py,java,docker,aws,mongodb" />
   </a>
 </p>
 
