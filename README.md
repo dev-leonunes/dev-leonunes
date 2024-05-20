@@ -30,13 +30,13 @@
 <h4 align="left">Que tenho conhecimento:</h4>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=css,html" />
+    <img src="https://skillicons.dev/icons?i=py,css,html" />
   </a>
 </p>
 <h4 align="left">Que estou estudando:</h4>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,java,docker,aws,mongodb" />
+    <img src="https://skillicons.dev/icons?i=java,docker,aws,mongodb,vitest" />
   </a>
 </p>
 
