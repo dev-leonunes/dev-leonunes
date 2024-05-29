@@ -43,7 +43,7 @@
 ## 🔥 Github Stats
 
 <div align="left">
-<img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=futurodevleo&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&rank_icon=github">
-<img height="200px" width="420" src="http://github-readme-streak-stats.herokuapp.com?user=futurodevleo&theme=dracula">
-<img height="220px" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=futurodevleo&show_icons=true&theme=dracula&layout=compact">
+<img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=dev-leonunes&show_icons=true&count_private=true&theme=dracula&rank_icon=github">
+<img height="200px" width="420" src="http://github-readme-streak-stats.herokuapp.com?user=dev-leonunes&theme=dracula">
+<img height="220px" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-leonunes&show_icons=true&theme=dracula&layout=compact">
 </div>
