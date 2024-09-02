@@ -5,7 +5,7 @@
 
 -  🔭 Estou atualmente em uma jornada para alcançar **grandes** objetivos
 -  📍 Sou da Bahia, atualmente moro em Salvador-BA
--  🌱 Estou atualmente estudando **Typescript, Python, Java, Docker, MongoDB**
+-  🌱 Estou atualmente estudando **Typescript, Python, MongoDB, Nest.js**
 -  🧠 Fui estudante de Desenvolvimento de Software Back-end na Cubos Academy
 -  👨‍🎓 Cursando Ciência e Tecnologia pela UFSB & Análise e Desenvolvimento de Sistemas pela Uninter
 -  🔎 Também tenho curiosidade sobre as ciências, a economia e muito mais...
@@ -15,8 +15,14 @@
 
 <h3 align="left">Redes Sociais:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/leonardo-nunes-dev" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="leonardo-nunes-dev" /></a>
-<a href="https://instagram.com/leonnunes07" target="blank"><img src="https://skillicons.dev/icons?i=instagram" alt="leonnunes07" /></a>
+<a href="https://linkedin.com/in/leonardo-nunes-dev" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" /></a>
+<a href="https://instagram.com/leonnunes07" target="blank"><img src="https://skillicons.dev/icons?i=instagram" alt="instagram" /></a>
+</p>
+
+<h3 align="left">Contato:</h3>
+<p align="left">
+<a href="https://discord.com/users/726271049209086094" target="blank"><img src="https://skillicons.dev/icons?i=discord" alt="discord" /></a>
+<a href="mailto:leonunes07@outlook.com" target="blank"><img src="https://skillicons.dev/icons?i=gmail" alt="e-mail" /></a>
 </p>
 
 <h3 align="left">Linguagens e ferramentas:</h3>
@@ -30,13 +36,14 @@
 <h4 align="left">Que tenho conhecimento:</h4>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,css,html,vitest" />
+    <img src="https://skillicons.dev/icons?i=py,html,css,vitest" />
   </a>
 </p>
 <h4 align="left">Que estou estudando:</h4>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,docker,aws,mongodb,wordpress" />
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,nestjs" /><br>
+    <img src="https://skillicons.dev/icons?i=java,docker,aws" />
   </a>
 </p>
 
