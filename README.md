@@ -5,7 +5,7 @@
 
 -  🔭 Estou atualmente em uma jornada para alcançar **grandes** objetivos
 -  📍 Sou da Bahia, atualmente moro em Salvador-BA
--  🌱 Estou atualmente estudando **Typescript, Python, MongoDB, Nest.js**
+-  🌱 Estou atualmente estudando **Java, C, Nest.js, TypeORM**
 -  🧠 Fui estudante de Desenvolvimento de Software Back-end na Cubos Academy
 -  👨‍🎓 Cursando Ciência e Tecnologia pela UFSB & Análise e Desenvolvimento de Sistemas pela Uninter
 -  🔎 Também tenho curiosidade sobre as ciências, a economia e muito mais...
@@ -30,20 +30,26 @@
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,nodejs,express,typescript,postgresql" /><br>
-    <img src="https://skillicons.dev/icons?i=git,vscode,postman" />
+    <img src="https://skillicons.dev/icons?i=git,vscode,postman,jest" />
   </a>
 </p>
 <h4 align="left">Que tenho conhecimento:</h4>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,html,css,vitest" />
+    <img src="https://skillicons.dev/icons?i=html,css,py,vitest" /><br>
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
   </a>
 </p>
 <h4 align="left">Que estou estudando:</h4>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,nestjs" /><br>
-    <img src="https://skillicons.dev/icons?i=java,docker,aws" />
+    <img src="https://skillicons.dev/icons?i=java,nestjs,c,docker" />
+  </a>
+</p>
+<h4 align="left">Que já tive contato:</h4>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,wordpress" />
   </a>
 </p>
 
