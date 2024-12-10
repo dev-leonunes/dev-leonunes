@@ -4,7 +4,7 @@
 <h3 align="center">Um desenvolvedor backend</h3>
 
 -  🔭 Estou atualmente em uma jornada para alcançar **grandes** objetivos
--  📍 Sou da Bahia, atualmente moro em Salvador-BA
+-  📍 Sou da Bahia, atualmente moro em Valença-BA
 -  🌱 Estou atualmente estudando **Java, C, Nest.js, TypeORM**
 -  🧠 Fui estudante de Desenvolvimento de Software Back-end na Cubos Academy
 -  👨‍🎓 Cursando Ciência e Tecnologia pela UFSB & Análise e Desenvolvimento de Sistemas pela Uninter
@@ -58,5 +58,5 @@
 <div align="left">
 <img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=dev-leonunes&show_icons=true&count_private=true&theme=dracula&rank_icon=github">
 <img height="200px" width="420" src="http://github-readme-streak-stats.herokuapp.com?user=dev-leonunes&theme=dracula&mode=weekly">
-<img height="220px" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-leonunes&show_icons=true&theme=dracula&layout=compact">
+<img height="220px" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-leonunes&show_icons=true&theme=dracula&layout=compact&langs_count=8">
 </div>
