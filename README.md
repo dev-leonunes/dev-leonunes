@@ -1,11 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=White+Rabbit&pause=1000&color=34C924&width=435&lines=Wake+up%2C+Neo...;The+Matrix+has+you...;Follow+the+white+rabbit.)](https://git.io/typing-svg)
 
 <h1 align="center">Olá Mundo 👋, eu sou o Leonardo Nunes</h1>
-<h3 align="center">Um desenvolvedor backend</h3>
+<h3 align="center">Um desenvolvedor de software</h3>
 
 -  🔭 Estou atualmente em uma jornada para alcançar **grandes** objetivos
 -  📍 Sou da Bahia, atualmente moro em Valença-BA
--  🌱 Estou atualmente estudando **Java, C, Nest.js, TypeORM**
+-  🌱 Estou atualmente estudando **Java, C, Raspberry Pi, Nest.js**
 -  🧠 Fui estudante de Desenvolvimento de Software Back-end na Cubos Academy
 -  👨‍🎓 Cursando Ciência e Tecnologia pela UFSB & Análise e Desenvolvimento de Sistemas pela Uninter
 -  🔎 Também tenho curiosidade sobre as ciências, a economia e muito mais...
@@ -37,19 +37,19 @@
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,py,vitest" /><br>
-    <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+    <img src="https://skillicons.dev/icons?i=wordpress,mysql,mongodb" />
   </a>
 </p>
 <h4 align="left">Que estou estudando:</h4>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,nestjs,c,docker" />
+    <img src="https://skillicons.dev/icons?i=java,nestjs,c,raspberrypi" />
   </a>
 </p>
 <h4 align="left">Que já tive contato:</h4>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,wordpress" />
+    <img src="https://skillicons.dev/icons?i=docker,aws" />
   </a>
 </p>
 
