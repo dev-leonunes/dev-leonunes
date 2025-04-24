@@ -29,27 +29,28 @@
 <h4 align="left">Que utilizo:</h4>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,nodejs,express,typescript,postgresql" /><br>
-    <img src="https://skillicons.dev/icons?i=git,vscode,postman,jest" />
+    <img src="https://skillicons.dev/icons?i=nodejs,typescript,js,nestjs" /><br>
+    <img src="https://skillicons.dev/icons?i=postgresql,mongodb,docker,jest" /><br>
+    <img src="https://skillicons.dev/icons?i=git,vscode,postman" />
   </a>
 </p>
 <h4 align="left">Que tenho conhecimento:</h4>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,py,c,raspberrypi" /><br>
-    <img src="https://skillicons.dev/icons?i=wordpress,mysql,mongodb,vitest" />
+    <img src="https://skillicons.dev/icons?i=html,css,py,c" /><br>
+    <img src="https://skillicons.dev/icons?i=wordpress,express,mysql,vitest" />
   </a>
 </p>
 <h4 align="left">Que estou estudando:</h4>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,nestjs,nextjs,react" />
+    <img src="https://skillicons.dev/icons?i=java,nextjs,react" />
   </a>
 </p>
 <h4 align="left">Que já tive contato:</h4>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,aws" />
+    <img src="https://skillicons.dev/icons?i=aws,raspberrypi" />
   </a>
 </p>
 
