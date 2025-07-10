@@ -6,7 +6,7 @@
 -  💼 Desenvolvedor FullStack Jr. na MigraCode
 -  🔭 Estou em uma jornada para alcançar **grandes** objetivos
 -  📍 Sou da Bahia, atualmente moro em Valença-BA
--  🌱 Estou atualmente estudando **Java, Nest.js, Next.js, React.js**
+-  🌱 Estou atualmente estudando **Java, Next.js**
 -  🧠 Fui estudante de Desenvolvimento de Software Back-end na Cubos Academy
 -  👨‍🎓 Cursando Análise e Desenvolvimento de Sistemas pela Uninter
 -  🎓 Bacharel em Ciência e Tecnologia pela UFSB 
@@ -31,22 +31,21 @@
 <h4 align="left">Que utilizo:</h4>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,typescript,js,nestjs" /><br>
-    <img src="https://skillicons.dev/icons?i=postgresql,mongodb,docker,jest" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,typescript,js,nestjs,react,vite" /><br>
+    <img src="https://skillicons.dev/icons?i=postgresql,mongodb,mysql,jest,vitest,docker" /><br>
     <img src="https://skillicons.dev/icons?i=git,vscode,postman" />
   </a>
 </p>
 <h4 align="left">Que tenho conhecimento:</h4>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,py,c" /><br>
-    <img src="https://skillicons.dev/icons?i=wordpress,express,mysql,vitest" />
+    <img src="https://skillicons.dev/icons?i=html,css,py,c,wordpress,express" /><br>
   </a>
 </p>
 <h4 align="left">Que estou estudando:</h4>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,nextjs,react" />
+    <img src="https://skillicons.dev/icons?i=java,nextjs,adonis" />
   </a>
 </p>
 <h4 align="left">Que já tive contato:</h4>
