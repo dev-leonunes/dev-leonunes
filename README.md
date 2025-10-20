@@ -45,13 +45,13 @@
 <h4 align="left">Que estou estudando:</h4>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,nextjs,adonis" />
+    <img src="https://skillicons.dev/icons?i=java,spring,nextjs" />
   </a>
 </p>
 <h4 align="left">Que já tive contato:</h4>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,raspberrypi" />
+    <img src="https://skillicons.dev/icons?i=adonis,aws,raspberrypi" />
   </a>
 </p>
 
