@@ -33,7 +33,7 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=nodejs,typescript,js,nestjs,react,vite" /><br>
     <img src="https://skillicons.dev/icons?i=postgresql,mongodb,mysql,jest,vitest,docker" /><br>
-    <img src="https://skillicons.dev/icons?i=git,vscode,postman" />
+    <img src="https://skillicons.dev/icons?i=adonis,git,vscode,aws,postman" />
   </a>
 </p>
 <h4 align="left">Que tenho conhecimento:</h4>
@@ -51,7 +51,7 @@
 <h4 align="left">Que já tive contato:</h4>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=adonis,aws,raspberrypi" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,raspberrypi" />
   </a>
 </p>
 
