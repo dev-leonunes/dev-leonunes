@@ -39,7 +39,7 @@
 <h4 align="left">Que tenho conhecimento:</h4>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,py,c,wordpress,express" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,py,c,express" /><br>
   </a>
 </p>
 <h4 align="left">Que estou estudando:</h4>
@@ -51,7 +51,7 @@
 <h4 align="left">Que já tive contato:</h4>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,raspberrypi" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,raspberrypi,wordpress" />
   </a>
 </p>
 
