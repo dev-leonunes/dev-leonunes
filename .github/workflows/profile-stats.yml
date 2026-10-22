@@ -35,7 +35,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
-          options: username=dev-leonunes&theme=radical&layout=compact&langs_count=8&hide_border=true&card_width=340
+          options: username=dev-leonunes&layout=compact&langs_count=8&hide_border=true&card_width=340&bg_color=0f172a&title_color=f59e0b&text_color=f8fafc
           path: profile/top-langs.svg
           token: ${{ secrets.PROFILE_STATS_TOKEN }}
           fail_on_error: "true"
@@ -49,13 +49,27 @@ jobs:
           THEME: radical
           AUTO_PUSH: false
 
-      - name: Copy stats card
-        run: cp profile-summary-card-output/radical/3-stats.svg profile/stats.svg
+      - name: Apply portfolio palette to stats card
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+
+          svg = Path("profile-summary-card-output/radical/3-stats.svg").read_text()
+          palette = {
+              "#141321": "#0f172a",
+              "#fe428e": "#f59e0b",
+              "#f8d847": "#f59e0b",
+              "#a9fef7": "#f8fafc",
+          }
+          for original, replacement in palette.items():
+              svg = svg.replace(original, replacement)
+          Path("profile/stats.svg").write_text(svg)
+          PY
 
       - name: Generate streak card
         uses: DenverCoder1/github-readme-streak-stats@v1
         with:
-          options: user=dev-leonunes&theme=radical&mode=weekly&hide_border=true&card_width=400&card_height=235&disable_animations=true
+          options: user=dev-leonunes&mode=weekly&hide_border=true&card_width=400&card_height=235&disable_animations=true&background=0f172a&stroke=334155&ring=f59e0b&fire=f59e0b&currStreakNum=f8fafc&sideNums=f8fafc&currStreakLabel=f59e0b&sideLabels=f59e0b&dates=94a3b8
           path: profile/streak.svg
           token: ${{ secrets.PROFILE_STATS_TOKEN }}
 
