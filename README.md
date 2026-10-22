@@ -62,5 +62,5 @@
 <img align="top" width="400" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dev-leonunes&theme=radical" alt="Estatísticas do GitHub">
 <!--  <img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=dev-leonunes&show_icons=true&count_private=true&theme=radical&rank_icon=github"> -->
 <img align="top" width="400" src="https://github-readme-streak-stats.herokuapp.com?user=dev-leonunes&theme=radical&mode=weekly&hide_border=true&card_width=400&card_height=235" alt="Sequência semanal de contribuições no GitHub">
-<img align="top" width="400" src="https://github-stats-extended.vercel.app/api/top-langs/?username=dev-leonunes&show_icons=true&theme=radical&layout=compact&langs_count=8&hide_border=true&card_width=340" alt="Linguagens mais usadas no GitHub">
+<img align="top" width="400" src="./profile/top-langs.svg" alt="Linguagens mais usadas no GitHub">
 </div>

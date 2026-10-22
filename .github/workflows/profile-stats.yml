@@ -1,0 +1,53 @@
+name: Update profile language stats
+
+on:
+  schedule:
+    - cron: "43 8 * * *"
+  workflow_dispatch:
+  push:
+    paths:
+      - .github/workflows/profile-stats.yml
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-language-stats
+  cancel-in-progress: false
+
+jobs:
+  update-languages:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v6
+
+      - name: Check stats token
+        env:
+          PROFILE_STATS_TOKEN: ${{ secrets.PROFILE_STATS_TOKEN }}
+        run: |
+          if [ -z "$PROFILE_STATS_TOKEN" ]; then
+            echo "::error::Create the PROFILE_STATS_TOKEN repository secret before running this workflow."
+            exit 1
+          fi
+
+      - name: Generate language card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: username=dev-leonunes&theme=radical&layout=compact&langs_count=8&hide_border=true&card_width=340
+          path: profile/top-langs.svg
+          token: ${{ secrets.PROFILE_STATS_TOKEN }}
+          fail_on_error: "true"
+
+      - name: Commit updated card
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile/top-langs.svg
+          if git diff --cached --quiet; then
+            echo "Language card has not changed."
+            exit 0
+          fi
+          git commit -m "chore: update profile language stats"
+          git push
