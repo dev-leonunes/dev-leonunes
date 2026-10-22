@@ -24,22 +24,13 @@
 <h4 align="left">Stack principal:</h4>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=typescript,js,nodejs,html,css" alt="TypeScript, JavaScript, Node.js, HTML e CSS" /><br>
-    <img src="https://skillicons.dev/icons?i=react,nestjs,nextjs,adonis,express" alt="React, NestJS, Next.js, AdonisJS e Express" /><br>
-    <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,jest,vitest" alt="PostgreSQL, MySQL, MongoDB, Jest e Vitest" /><br>
-    <img src="https://skillicons.dev/icons?i=vite,git,aws,postman,docker" alt="Vite, Git, AWS, Postman e Docker" />
+    <img src="https://skillicons.dev/icons?i=typescript,js,html,css,nodejs,react,nextjs,tailwind,vite,nestjs,adonis,express,prisma,postgresql,mysql,mongodb,jest,vitest,git,docker,aws,postman&perline=5" alt="TypeScript, JavaScript, HTML, CSS, Node.js, React, Next.js, Tailwind CSS, Vite, NestJS, AdonisJS, Express, Prisma, PostgreSQL, MySQL, MongoDB, Jest, Vitest, Git, Docker, AWS e Postman" />
   </a>
 </p>
 <h4 align="left">Outras tecnologias:</h4>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,c,java,cs,dotnet,raspberrypi,wordpress&perline=5" alt="Python, C, Java, C#, .NET, Raspberry Pi e WordPress" />
-  </a>
-</p>
-<h4 align="left">Estudando atualmente:</h4>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=spring,golang" alt="Spring e Go" />
+    <img src="https://skillicons.dev/icons?i=java,spring,cs,dotnet,py,c,raspberrypi,wordpress&perline=5" alt="Java, Spring, C#, .NET, Python, C, Raspberry Pi e WordPress" />
   </a>
 </p>
 
