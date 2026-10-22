@@ -1,4 +1,4 @@
-name: Update profile language stats
+name: Update profile stats
 
 on:
   schedule:
@@ -16,7 +16,7 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
-  update-languages:
+  update-cards:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
@@ -40,14 +40,26 @@ jobs:
           token: ${{ secrets.PROFILE_STATS_TOKEN }}
           fail_on_error: "true"
 
-      - name: Commit updated card
+      - name: Generate stats card
+        uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.PROFILE_STATS_TOKEN }}
+        with:
+          USERNAME: dev-leonunes
+          THEME: radical
+          AUTO_PUSH: false
+
+      - name: Copy stats card
+        run: cp profile-summary-card-output/radical/3-stats.svg profile/stats.svg
+
+      - name: Commit updated cards
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add profile/top-langs.svg
+          git add profile/top-langs.svg profile/stats.svg
           if git diff --cached --quiet; then
-            echo "Language card has not changed."
+            echo "Profile cards have not changed."
             exit 0
           fi
-          git commit -m "chore: update profile language stats"
+          git commit -m "chore: update profile stats"
           git push
